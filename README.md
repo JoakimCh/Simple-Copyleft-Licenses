@@ -21,7 +21,7 @@ Society will progress much faster when people have better reasons to reuse exist
 
 * It promotes the original authors to always be remembered and credited.
 * It promotes sharing the source code of improved versions.
-* It promotes using the code freely in any system whithout having to apply the license to the whole system.
+* It promotes using the code freely in any system without having to apply the license to the whole system.
 
 # An example SCL license looks like this
 
